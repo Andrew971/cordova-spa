@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.andrewsordier.myApp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.andrewsordier.myApp"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_IOS": "AIzaSyDWGqT0J6R1MjvVuejQ09lSfaeZP6TA-8I",
+      "LOCATION_WHEN_IN_USE_DESCRIPTION": "This app wants to get your location while this app runs only.",
+      "LOCATION_ALWAYS_USAGE_DESCRIPTION": "This app wants to get your location always, even this app runs in background.",
+      "PACKAGE_NAME": "com.andrewsordier.myApp"
+    }
+  },
+  "dependent_plugins": {
+    "com.googlemaps.ios": {
+      "PACKAGE_NAME": "com.andrewsordier.myApp"
+    }
+  }
+}

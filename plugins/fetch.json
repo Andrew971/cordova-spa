@@ -35,5 +35,35 @@
     },
     "is_top_level": false,
     "variables": {}
+  },
+  "cordova-background-geolocation-lt": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-background-geolocation-lt@2.12.2"
+    },
+    "is_top_level": true,
+    "variables": {
+      "BACKGROUND_MODE_LOCATION": "<string>location</string>",
+      "LOCATION_ALWAYS_AND_WHEN_IN_USE_USAGE_DESCRIPTION": "Always use is required for constant background location-tracking",
+      "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Background location-tracking is required",
+      "LOCATION_WHEN_IN_USE_USAGE_DESCRIPTION": "Background location-tracking is required",
+      "MOTION_USAGE_DESCRIPTION": "Using the accelerometer increases battery-efficiency by intelligently toggling location-tracking only when the device is detected to be moving"
+    }
+  },
+  "cordova-plugin-background-fetch": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-background-fetch@~5.4.1"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-cocoalumberjack": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-cocoalumberjack@~0.0.4"
+    },
+    "is_top_level": false,
+    "variables": {}
   }
 }

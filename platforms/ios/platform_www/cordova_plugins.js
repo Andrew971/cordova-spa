@@ -243,6 +243,27 @@ module.exports = [
     "clobbers": [
       "plugin.google.maps"
     ]
+  },
+  {
+    "id": "cordova-plugin-background-fetch.BackgroundFetch",
+    "file": "plugins/cordova-plugin-background-fetch/www/BackgroundFetch.js",
+    "pluginId": "cordova-plugin-background-fetch",
+    "clobbers": [
+      "window.BackgroundFetch"
+    ]
+  },
+  {
+    "id": "cordova-background-geolocation-lt.BackgroundGeolocation",
+    "file": "plugins/cordova-background-geolocation-lt/www/BackgroundGeolocation.js",
+    "pluginId": "cordova-background-geolocation-lt",
+    "clobbers": [
+      "window.BackgroundGeolocation"
+    ]
+  },
+  {
+    "id": "cordova-background-geolocation-lt.API",
+    "file": "plugins/cordova-background-geolocation-lt/www/API.js",
+    "pluginId": "cordova-background-geolocation-lt"
   }
 ];
 module.exports.metadata = 
@@ -251,7 +272,10 @@ module.exports.metadata =
   "cordova-plugin-camera": "4.0.3",
   "cordova-plugin-whitelist": "1.3.3",
   "com.googlemaps.ios": "2.7.0",
-  "cordova-plugin-googlemaps": "2.3.8"
+  "cordova-plugin-googlemaps": "2.3.8",
+  "cordova-plugin-background-fetch": "5.4.1",
+  "cordova-plugin-cocoalumberjack": "0.0.4",
+  "cordova-background-geolocation-lt": "2.12.2"
 };
 // BOTTOM OF METADATA
 });

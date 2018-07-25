@@ -74,6 +74,14 @@
 		229BD0885A17496783D60ABC /* pgm_Localizable_pl.json in Resources */ = {isa = PBXBuildFile; fileRef = 4172E68330C04C5FAA83380B /* pgm_Localizable_pl.json */; };
 		DC6EAC942D36458180190FE5 /* pgm_Localizable_da.json in Resources */ = {isa = PBXBuildFile; fileRef = E08EAA1A4A144C91AF79A7FB /* pgm_Localizable_da.json */; };
 		F5853EDECDF9457CA2DB707B /* pgm_Localizable_vi.json in Resources */ = {isa = PBXBuildFile; fileRef = 1DC60ED817A346659EBFAED0 /* pgm_Localizable_vi.json */; };
+		A9AEFD0C16BB41E489667D4B /* CDVBackgroundFetch.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ACD7172F75941D8B7CC1EB8 /* CDVBackgroundFetch.m */; };
+		1D46457B4A854829B02471FA /* TSBackgroundFetch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 779605E7209C4867BEB692EE /* TSBackgroundFetch.framework */; };
+		0E1F941E7DCE4661875829DC /* libCocoaLumberjack.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 09D05F6DECB74E8182617E6E /* libCocoaLumberjack.a */; };
+		DF5998700B2B4D828A342E5F /* CDVBackgroundGeolocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 7821168891CB44B697BA4B31 /* CDVBackgroundGeolocation.m */; };
+		7251E0A447AB409082342357 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 511E246802644CB5A4513C0C /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		A537C1C46C654D6E82F3C145 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = A8A5A93F9CB84124B91C47B5 /* libsqlite3.dylib */; settings = {ATTRIBUTES = (Weak, ); }; };
+		E5E3A908E8E84844ACAC427A /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F088AB7CF8FF451EAE4DDEFE /* libz.dylib */; settings = {ATTRIBUTES = (Weak, ); }; };
+		7D8C9DB6AB6D4D0E8C9FD718 /* TSLocationManager.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46A609736E814C9BBBC18C3F /* TSLocationManager.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -215,6 +223,16 @@
 		4172E68330C04C5FAA83380B /* pgm_Localizable_pl.json */ = {isa = PBXFileReference; name = "pgm_Localizable_pl.json"; path = "pgm_Localizable_pl.json"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		E08EAA1A4A144C91AF79A7FB /* pgm_Localizable_da.json */ = {isa = PBXFileReference; name = "pgm_Localizable_da.json"; path = "pgm_Localizable_da.json"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		1DC60ED817A346659EBFAED0 /* pgm_Localizable_vi.json */ = {isa = PBXFileReference; name = "pgm_Localizable_vi.json"; path = "pgm_Localizable_vi.json"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5ACD7172F75941D8B7CC1EB8 /* CDVBackgroundFetch.m */ = {isa = PBXFileReference; name = "CDVBackgroundFetch.m"; path = "cordova-plugin-background-fetch/CDVBackgroundFetch.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		6E08CB456A62441882B7DD84 /* CDVBackgroundFetch.h */ = {isa = PBXFileReference; name = "CDVBackgroundFetch.h"; path = "cordova-plugin-background-fetch/CDVBackgroundFetch.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		779605E7209C4867BEB692EE /* TSBackgroundFetch.framework */ = {isa = PBXFileReference; name = "TSBackgroundFetch.framework"; path = "myApp/Plugins/cordova-plugin-background-fetch/TSBackgroundFetch.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		09D05F6DECB74E8182617E6E /* libCocoaLumberjack.a */ = {isa = PBXFileReference; name = "libCocoaLumberjack.a"; path = "myApp/Plugins/cordova-plugin-cocoalumberjack/libCocoaLumberjack.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		7821168891CB44B697BA4B31 /* CDVBackgroundGeolocation.m */ = {isa = PBXFileReference; name = "CDVBackgroundGeolocation.m"; path = "cordova-background-geolocation-lt/CDVBackgroundGeolocation.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		76E24868A904428AA786C1E6 /* CDVBackgroundGeolocation.h */ = {isa = PBXFileReference; name = "CDVBackgroundGeolocation.h"; path = "cordova-background-geolocation-lt/CDVBackgroundGeolocation.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		511E246802644CB5A4513C0C /* AudioToolbox.framework */ = {isa = PBXFileReference; name = "AudioToolbox.framework"; path = "System/Library/Frameworks/AudioToolbox.framework"; sourceTree = SDKROOT; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		A8A5A93F9CB84124B91C47B5 /* libsqlite3.dylib */ = {isa = PBXFileReference; name = "libsqlite3.dylib"; path = "usr/lib/libsqlite3.dylib"; sourceTree = SDKROOT; fileEncoding = undefined; lastKnownFileType = compiled.mach-o.dylib; explicitFileType = undefined; includeInIndex = 0; };
+		F088AB7CF8FF451EAE4DDEFE /* libz.dylib */ = {isa = PBXFileReference; name = "libz.dylib"; path = "usr/lib/libz.dylib"; sourceTree = SDKROOT; fileEncoding = undefined; lastKnownFileType = compiled.mach-o.dylib; explicitFileType = undefined; includeInIndex = 0; };
+		46A609736E814C9BBBC18C3F /* TSLocationManager.framework */ = {isa = PBXFileReference; name = "TSLocationManager.framework"; path = "myApp/Plugins/cordova-background-geolocation-lt/TSLocationManager.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -241,6 +259,12 @@
 				19F70ABEEB84460BA7C96547 /* GoogleMapsBase.framework in Frameworks */,
 				D815FE521E844D4DB832A0AE /* GoogleMaps.framework in Frameworks */,
 				96DE7606FC6A4890BAA20172 /* GoogleMapsCore.framework in Frameworks */,
+				1D46457B4A854829B02471FA /* TSBackgroundFetch.framework in Frameworks */,
+				0E1F941E7DCE4661875829DC /* libCocoaLumberjack.a in Frameworks */,
+				7251E0A447AB409082342357 /* AudioToolbox.framework in Frameworks */,
+				A537C1C46C654D6E82F3C145 /* libsqlite3.dylib in Frameworks */,
+				E5E3A908E8E84844ACAC427A /* libz.dylib in Frameworks */,
+				7D8C9DB6AB6D4D0E8C9FD718 /* TSLocationManager.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -343,6 +367,12 @@
 				92F1E5E3169046038576B130 /* GoogleMapsBase.framework */,
 				7861FA313D384CAC945C1AB9 /* GoogleMaps.framework */,
 				23BA92DF9F3F43B688C76853 /* GoogleMapsCore.framework */,
+				779605E7209C4867BEB692EE /* TSBackgroundFetch.framework */,
+				09D05F6DECB74E8182617E6E /* libCocoaLumberjack.a */,
+				511E246802644CB5A4513C0C /* AudioToolbox.framework */,
+				A8A5A93F9CB84124B91C47B5 /* libsqlite3.dylib */,
+				F088AB7CF8FF451EAE4DDEFE /* libz.dylib */,
+				46A609736E814C9BBBC18C3F /* TSLocationManager.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -431,6 +461,10 @@
 				4590B368A03942BB85C26DEB /* PluginViewController.h */,
 				DAED4307199443F8A7847E8B /* IPluginView.h */,
 				41009DF5F26149CDA16FD829 /* IPluginProtocol.h */,
+				5ACD7172F75941D8B7CC1EB8 /* CDVBackgroundFetch.m */,
+				6E08CB456A62441882B7DD84 /* CDVBackgroundFetch.h */,
+				7821168891CB44B697BA4B31 /* CDVBackgroundGeolocation.m */,
+				76E24868A904428AA786C1E6 /* CDVBackgroundGeolocation.h */,
 			);
 			name = Plugins;
 			path = myApp/Plugins;
@@ -601,6 +635,8 @@
 				65C5081A472B4D0686CE9F26 /* PluginStreetViewPanorama.m in Sources */,
 				E95550E4839D495981A3E6B2 /* PluginStreetViewPanoramaController.m in Sources */,
 				C71A967BE67F4B1ABDA06570 /* PluginViewController.m in Sources */,
+				A9AEFD0C16BB41E489667D4B /* CDVBackgroundFetch.m in Sources */,
+				DF5998700B2B4D828A342E5F /* CDVBackgroundGeolocation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -642,6 +678,12 @@
 					"\"myApp/Plugins/com.googlemaps.ios\"",
 					"\"myApp/Plugins/com.googlemaps.ios\"",
 					"\"myApp/Plugins/com.googlemaps.ios\"",
+					"\"myApp/Plugins/cordova-plugin-background-fetch\"",
+					"\"myApp/Plugins/cordova-background-geolocation-lt\"",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/myApp/Plugins/cordova-plugin-cocoalumberjack\"",
 				);
 			};
 			name = Debug;
@@ -671,6 +713,12 @@
 					"\"myApp/Plugins/com.googlemaps.ios\"",
 					"\"myApp/Plugins/com.googlemaps.ios\"",
 					"\"myApp/Plugins/com.googlemaps.ios\"",
+					"\"myApp/Plugins/cordova-plugin-background-fetch\"",
+					"\"myApp/Plugins/cordova-background-geolocation-lt\"",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/myApp/Plugins/cordova-plugin-cocoalumberjack\"",
 				);
 			};
 			name = Release;

@@ -18,10 +18,24 @@
       "LOCATION_WHEN_IN_USE_DESCRIPTION": "This app wants to get your location while this app runs only.",
       "LOCATION_ALWAYS_USAGE_DESCRIPTION": "This app wants to get your location always, even this app runs in background.",
       "PACKAGE_NAME": "com.andrewsordier.myApp"
+    },
+    "cordova-background-geolocation-lt": {
+      "BACKGROUND_MODE_LOCATION": "<string>location</string>",
+      "LOCATION_ALWAYS_AND_WHEN_IN_USE_USAGE_DESCRIPTION": "Always use is required for constant background location-tracking",
+      "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Background location-tracking is required",
+      "LOCATION_WHEN_IN_USE_USAGE_DESCRIPTION": "Background location-tracking is required",
+      "MOTION_USAGE_DESCRIPTION": "Using the accelerometer increases battery-efficiency by intelligently toggling location-tracking only when the device is detected to be moving",
+      "PACKAGE_NAME": "com.andrewsordier.myApp"
     }
   },
   "dependent_plugins": {
     "com.googlemaps.ios": {
+      "PACKAGE_NAME": "com.andrewsordier.myApp"
+    },
+    "cordova-plugin-background-fetch": {
+      "PACKAGE_NAME": "com.andrewsordier.myApp"
+    },
+    "cordova-plugin-cocoalumberjack": {
       "PACKAGE_NAME": "com.andrewsordier.myApp"
     }
   }

@@ -55,7 +55,7 @@
     <key>Google Maps API Key</key>
     <string>AIzaSyDWGqT0J6R1MjvVuejQ09lSfaeZP6TA-8I</string>
     <key>NSLocationAlwaysUsageDescription</key>
-    <string>This app wants to get your location always, even this app runs in background.</string>
+    <string>Background location-tracking is required</string>
     <key>LSApplicationQueriesSchemes</key>
     <array>
       <string>googlechromes</string>
@@ -79,8 +79,17 @@
     <key>NSPhotoLibraryUsageDescription</key>
     <string>need photo library access to get pictures from there</string>
     <key>NSLocationWhenInUseUsageDescription</key>
-    <string>need location access to find things nearby</string>
+    <string>Background location-tracking is required</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>need photo library access to save pictures there</string>
+    <key>UIBackgroundModes</key>
+    <array>
+      <string>fetch</string>
+      <string>location</string>
+    </array>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Always use is required for constant background location-tracking</string>
+    <key>NSMotionUsageDescription</key>
+    <string>Using the accelerometer increases battery-efficiency by intelligently toggling location-tracking only when the device is detected to be moving</string>
   </dict>
 </plist>

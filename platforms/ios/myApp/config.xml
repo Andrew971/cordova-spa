@@ -109,4 +109,11 @@
     <preference name="PaginationBreakingMode" value="page" />
     <preference name="PaginationMode" value="unpaginated" />
     <preference name="CameraUsesGeolocation" value="false" />
+    <feature name="BackgroundFetch">
+        <param name="ios-package" value="CDVBackgroundFetch" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="BackgroundGeolocation">
+        <param name="ios-package" value="CDVBackgroundGeolocation" />
+    </feature>
 </widget>

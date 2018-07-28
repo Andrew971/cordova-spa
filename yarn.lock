@@ -1858,6 +1858,10 @@ copy-descriptor@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/copy-descriptor/-/copy-descriptor-0.1.1.tgz#676f6eb3c39997c2ee1ac3a924fd6124748f578d"
 
+cordova-background-geolocation-lt@^2.12.2:
+  version "2.12.2"
+  resolved "https://registry.yarnpkg.com/cordova-background-geolocation-lt/-/cordova-background-geolocation-lt-2.12.2.tgz#c17c9baa7e9207643fd2634bbe3d3377225fa247"
+
 cordova-common@2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/cordova-common/-/cordova-common-2.1.0.tgz#bb357ee1b9825031ed9db3c56b592efe973d1640"
@@ -1889,9 +1893,17 @@ cordova-ios@^4.5.4:
     xcode "^0.9.0"
     xml-escape "^1.1.0"
 
+cordova-plugin-background-fetch@^5.4.1:
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/cordova-plugin-background-fetch/-/cordova-plugin-background-fetch-5.4.1.tgz#4b576826b84b9259d1c4c9a2616e7ff6b164f86d"
+
 cordova-plugin-camera@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/cordova-plugin-camera/-/cordova-plugin-camera-4.0.3.tgz#7373a5938318c86ccfd84e3713e2382d10fe076b"
+
+cordova-plugin-cocoalumberjack@0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/cordova-plugin-cocoalumberjack/-/cordova-plugin-cocoalumberjack-0.0.4.tgz#53f73367a92472dee2d2db05c575e9639219902b"
 
 "cordova-plugin-googlemaps-sdk@git+https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk.git#2.7.0":
   version "2.7.0"

@@ -74,14 +74,8 @@
         </array>
       </dict>
     </array>
-    <key>NSCameraUsageDescription</key>
-    <string>need camera access to take pictures</string>
-    <key>NSPhotoLibraryUsageDescription</key>
-    <string>need photo library access to get pictures from there</string>
     <key>NSLocationWhenInUseUsageDescription</key>
-    <string>Background location-tracking is required</string>
-    <key>NSPhotoLibraryAddUsageDescription</key>
-    <string>need photo library access to save pictures there</string>
+    <string>need location access to find things nearby</string>
     <key>UIBackgroundModes</key>
     <array>
       <string>fetch</string>
@@ -91,5 +85,11 @@
     <string>Always use is required for constant background location-tracking</string>
     <key>NSMotionUsageDescription</key>
     <string>Using the accelerometer increases battery-efficiency by intelligently toggling location-tracking only when the device is detected to be moving</string>
+    <key>NSCameraUsageDescription</key>
+    <string>need camera access to take pictures</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>need photo library access to get pictures from there</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>need photo library access to save pictures there</string>
   </dict>
 </plist>

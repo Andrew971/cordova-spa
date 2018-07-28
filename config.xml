@@ -42,7 +42,6 @@
         <variable name="LOCATION_WHEN_IN_USE_DESCRIPTION" value="This app wants to get your location while this app runs only." />
         <variable name="LOCATION_ALWAYS_USAGE_DESCRIPTION" value="This app wants to get your location always, even this app runs in background." />
     </plugin>
-    <engine name="ios" spec="^4.5.4" />
     <plugin name="cordova-background-geolocation-lt" spec="^2.12.2">
         <variable name="BACKGROUND_MODE_LOCATION" value="&lt;string&gt;location&lt;/string&gt;" />
         <variable name="LOCATION_ALWAYS_AND_WHEN_IN_USE_USAGE_DESCRIPTION" value="Always use is required for constant background location-tracking" />
@@ -50,4 +49,5 @@
         <variable name="LOCATION_WHEN_IN_USE_USAGE_DESCRIPTION" value="Background location-tracking is required" />
         <variable name="MOTION_USAGE_DESCRIPTION" value="Using the accelerometer increases battery-efficiency by intelligently toggling location-tracking only when the device is detected to be moving" />
     </plugin>
+    <engine name="ios" spec="^4.5.4" />
 </widget>

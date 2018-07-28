@@ -1,1 +1,1 @@
-{"plugins":["cordova-plugin-whitelist","cordova-plugin-camera","cordova-plugin-googlemaps","com.googlemaps.ios"]}
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-camera","cordova-plugin-googlemaps","com.googlemaps.ios","cordova-background-geolocation-lt","cordova-plugin-background-fetch","cordova-plugin-cocoalumberjack"]}

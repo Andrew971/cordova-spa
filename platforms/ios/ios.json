@@ -25,14 +25,14 @@
           ],
           "NSLocationWhenInUseUsageDescription": [
             {
+              "xml": "<string>Background location-tracking is required</string>",
+              "count": 1
+            },
+            {
               "xml": "<string>need location access to find things nearby</string>",
               "count": 1,
               "mode": "merge",
               "id": "config.xml"
-            },
-            {
-              "xml": "<string>Background location-tracking is required</string>",
-              "count": 1
             }
           ],
           "NSPhotoLibraryAddUsageDescription": [

@@ -86,11 +86,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		efx0kYSdHWDyzKDVDq9UjHnXXJc=
+		beca2d074/toreiBOEk8TbKl7BU=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		inx4uX6Wy84gKsiHfwmLTOpIFYg=
+		YE+Xf5eIatPH4Q4VoxR4t+dxcBo=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		rJNb+hPZYdXAVhotY8DoO8G2xYg=
+		ccHVYG1T2/qQKE+C2hSDAl2JXLo=
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<data>
@@ -812,7 +812,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		s9oQ5tXX0Ag08uEhZlEQZjf4I4Q=
+		WdJy0wyKbRqhu5nDrAD5R0ahYbg=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -880,7 +880,7 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		QcJ/TrJ1E3pZtJ9CyZuVfkYGaFY=
+		JkY60RMjQ+8npkiet5+9RBecgY0=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -888,11 +888,11 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		fItq0O7j1J4RA3D0yIvcHlXeN0U=
+		jH+sTdnv/DNSwOlGnK1IQbxWR1Y=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		Kd0+uOgrR/fWydafvAukEELVM/Q=
+		bXXnmvUpHJGiL/E3+SEMBCYJGMM=
 		</data>
 		<key>pgm_Localizable_ar.json</key>
 		<data>
@@ -948,7 +948,7 @@
 		</data>
 		<key>www/asset-manifest.json</key>
 		<data>
-		bgZqdy3qx+PCBo9KW9/aEvsZNuo=
+		KEQpVOdexBJ9mvcsxPdciv7Xw7s=
 		</data>
 		<key>www/cordova-js-src/exec.js</key>
 		<data>
@@ -972,7 +972,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		IUs32jjYWMyMhsqvz2x3IETYBlE=
+		QoZmxLdSvIY7uklJeJR0Cc+usKc=
 		</data>
 		<key>www/favicon.ico</key>
 		<data>
@@ -980,11 +980,23 @@
 		</data>
 		<key>www/index.html</key>
 		<data>
-		qCwBFfwQGNeDkaI3il9Qi4CWwNM=
+		fXN4iFODEDn2ZJU2Uvf0Iq4O57o=
 		</data>
 		<key>www/manifest.json</key>
 		<data>
 		IcQngrYzJA6R/gAW5+zMyucxKsI=
+		</data>
+		<key>www/plugins/cordova-background-geolocation-lt/www/API.js</key>
+		<data>
+		LZEmCTJhPYz+4wlylci04UYNww4=
+		</data>
+		<key>www/plugins/cordova-background-geolocation-lt/www/BackgroundGeolocation.js</key>
+		<data>
+		bcmVj44yWjegB5gDRb2nPbm8dSo=
+		</data>
+		<key>www/plugins/cordova-plugin-background-fetch/www/BackgroundFetch.js</key>
+		<data>
+		1W1AVGVE5XB/zctGaxMfPEYmOxE=
 		</data>
 		<key>www/plugins/cordova-plugin-camera/www/Camera.js</key>
 		<data>
@@ -1144,7 +1156,7 @@
 		</data>
 		<key>www/service-worker.js</key>
 		<data>
-		w2yod4wcF1sQJNEbAXTrEA4EjLc=
+		OBJS4/nR8J/gK74CDrqvahVXNQ0=
 		</data>
 		<key>www/static/css/main.b0e3506f.css</key>
 		<data>
@@ -1154,13 +1166,13 @@
 		<data>
 		qoYEh0bXJ2NdkAi9wxBhRyOC3T8=
 		</data>
-		<key>www/static/js/main.f676864e.js</key>
+		<key>www/static/js/main.d7d714f4.js</key>
 		<data>
-		M8CLMKU9VrgXQugj+I8PHYgYFtw=
+		Pg5SbbZHGAyG7KppYWVo3BMdy5w=
 		</data>
-		<key>www/static/js/main.f676864e.js.map</key>
+		<key>www/static/js/main.d7d714f4.js.map</key>
 		<data>
-		L+GHL8uq1Cb0q3XvITn9qzFlaAo=
+		vTxYoaD1Tboa4BJ7KC7o/+K3YfU=
 		</data>
 		<key>www/views/about.html</key>
 		<data>
@@ -1397,22 +1409,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			efx0kYSdHWDyzKDVDq9UjHnXXJc=
+			beca2d074/toreiBOEk8TbKl7BU=
 			</data>
 			<key>hash2</key>
 			<data>
-			95mUydDq1MzFtiY3mvad+aaDgayAzkqV/giIwYaSHmE=
+			3DQgnAmwyy3WrC3y9NtgzseCbEjfYu+7w61mSf66t+0=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			inx4uX6Wy84gKsiHfwmLTOpIFYg=
+			YE+Xf5eIatPH4Q4VoxR4t+dxcBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			5JvtWdCNyUEFIjukEc1dbYGf9BJp2oBoOqctwJY+l3s=
+			WtwYTkhHCWxl7FBz6shrphwXBsV8W7hvRUW2YcLeYqk=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -1430,11 +1442,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rJNb+hPZYdXAVhotY8DoO8G2xYg=
+			ccHVYG1T2/qQKE+C2hSDAl2JXLo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4l24zqVNBdTaQt82iVqt95BIaday0P5TjO3aX+XkHUA=
+			c2VQgY9LJis6p5L5imm0bjcLGyB++KAxTjbieR+IJps=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
@@ -3029,33 +3041,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QcJ/TrJ1E3pZtJ9CyZuVfkYGaFY=
+			JkY60RMjQ+8npkiet5+9RBecgY0=
 			</data>
 			<key>hash2</key>
 			<data>
-			n30OqZkIXcjrCZ7MVCCKnlyb5gQPt7J7uI9bqAjOicI=
+			Q6gi41pPqGvhrp/E9QSd1q5sXB2iiGOJnn9ydwKMvVE=
 			</data>
 		</dict>
 		<key>config.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fItq0O7j1J4RA3D0yIvcHlXeN0U=
+			jH+sTdnv/DNSwOlGnK1IQbxWR1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			RL1ydO/3mZPdGRqokkAxCpn3kNjEEJj7k9jO8qN4kqk=
+			3t4b98bBnubrhZwlR1U/ObI/dPYsFlUQ4uQDycaM56w=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Kd0+uOgrR/fWydafvAukEELVM/Q=
+			bXXnmvUpHJGiL/E3+SEMBCYJGMM=
 			</data>
 			<key>hash2</key>
 			<data>
-			8RqebA8PBas7YEqEIIKhsOnIV7OtdCZF6VRvRabkCgo=
+			DTl1bISi0rIp9UfWQB9RNxBHzm64Vy//2rCqVWOr93s=
 			</data>
 		</dict>
 		<key>pgm_Localizable_ar.json</key>
@@ -3205,11 +3217,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bgZqdy3qx+PCBo9KW9/aEvsZNuo=
+			KEQpVOdexBJ9mvcsxPdciv7Xw7s=
 			</data>
 			<key>hash2</key>
 			<data>
-			akT0ZSZcNvUiLzO4wIPAnbCRf7cqjK8kaciMHJM9Eqc=
+			bTZ+LzTvgLMvqrfaqX/5PTehNhMf6QwDKVHlUZLP2QA=
 			</data>
 		</dict>
 		<key>www/cordova-js-src/exec.js</key>
@@ -3271,11 +3283,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IUs32jjYWMyMhsqvz2x3IETYBlE=
+			QoZmxLdSvIY7uklJeJR0Cc+usKc=
 			</data>
 			<key>hash2</key>
 			<data>
-			qV8ToJSO9sQuN8mJha9BdlxOulCNsfZvcdYfmoUxHuk=
+			kLUeI86mz9g/xc5Hq+qO/rFwrWz64GKnEn+r3OKmjfo=
 			</data>
 		</dict>
 		<key>www/favicon.ico</key>
@@ -3293,11 +3305,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qCwBFfwQGNeDkaI3il9Qi4CWwNM=
+			fXN4iFODEDn2ZJU2Uvf0Iq4O57o=
 			</data>
 			<key>hash2</key>
 			<data>
-			quM4P5ScGjdR9aBjZ7zvPwfGkY+sHF4JiYILjh/S7vA=
+			uChZOq9D7uVTRGD56qZ1pKwLAusDmhF1THvUWxoawG4=
 			</data>
 		</dict>
 		<key>www/manifest.json</key>
@@ -3309,6 +3321,39 @@
 			<key>hash2</key>
 			<data>
 			ShxPBqSqfpMC7XKD10XThODp+eVtCalJ2SuJbLxN6wQ=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-background-geolocation-lt/www/API.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LZEmCTJhPYz+4wlylci04UYNww4=
+			</data>
+			<key>hash2</key>
+			<data>
+			3m8w78BZssv/aGiO5+9qVz6Sm78pLtymHUmjag2pveE=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-background-geolocation-lt/www/BackgroundGeolocation.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bcmVj44yWjegB5gDRb2nPbm8dSo=
+			</data>
+			<key>hash2</key>
+			<data>
+			HuQU7NWe2MSJrH235s/B0q1Fb3CkkCGj6r+hXYQlTwU=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-plugin-background-fetch/www/BackgroundFetch.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1W1AVGVE5XB/zctGaxMfPEYmOxE=
+			</data>
+			<key>hash2</key>
+			<data>
+			ryUuJZ7/9ZOLd+DvL3bn8XWMTUJE5hweaZpARb64Klg=
 			</data>
 		</dict>
 		<key>www/plugins/cordova-plugin-camera/www/Camera.js</key>
@@ -3744,11 +3789,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w2yod4wcF1sQJNEbAXTrEA4EjLc=
+			OBJS4/nR8J/gK74CDrqvahVXNQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Px/re6QcfsKRqdwh266E3OpLP0sn4dVcn4eyJIjXSGU=
+			vlvKsn9YIhc0i2gupVOwQptdHv2+AWjKiOCUVOdSCZE=
 			</data>
 		</dict>
 		<key>www/static/css/main.b0e3506f.css</key>
@@ -3773,26 +3818,26 @@
 			M5Z56dTOng2+3I1UEcqN8gaHHcq8p+MWsBiNItFCg+s=
 			</data>
 		</dict>
-		<key>www/static/js/main.f676864e.js</key>
+		<key>www/static/js/main.d7d714f4.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M8CLMKU9VrgXQugj+I8PHYgYFtw=
+			Pg5SbbZHGAyG7KppYWVo3BMdy5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			U1yjgW3jouFS9EC2zXVCzfAD1bCp0KfhtBFKOJ/jkj4=
+			Fkzcuo/JPogpBlOot5q3qlpI4ppUt1KGix0+giPdPd0=
 			</data>
 		</dict>
-		<key>www/static/js/main.f676864e.js.map</key>
+		<key>www/static/js/main.d7d714f4.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L+GHL8uq1Cb0q3XvITn9qzFlaAo=
+			vTxYoaD1Tboa4BJ7KC7o/+K3YfU=
 			</data>
 			<key>hash2</key>
 			<data>
-			swfgWlYoFGsj7dWCd5/KXczKUfVVvDfjuGQ9K+TO0nI=
+			knOCn31hVNpcBJzlDevLgLKhYZggrGGUgnprL6mqL9Q=
 			</data>
 		</dict>
 		<key>www/views/about.html</key>

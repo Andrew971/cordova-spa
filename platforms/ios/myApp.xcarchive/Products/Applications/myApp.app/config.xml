@@ -66,6 +66,13 @@
     <feature name="StreetViewPanorama">
         <param name="ios-package" value="PluginStreetViewPanorama" />
     </feature>
+    <feature name="BackgroundFetch">
+        <param name="ios-package" value="CDVBackgroundFetch" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="BackgroundGeolocation">
+        <param name="ios-package" value="CDVBackgroundGeolocation" />
+    </feature>
     <name>myApp</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
